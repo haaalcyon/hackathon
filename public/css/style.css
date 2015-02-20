@@ -1,0 +1,51 @@
+/** OVERRIDE BOOTSTRAP */
+
+.body
+{
+	/* background-img: C:\xampp\htdocs\tcas\public\img>; */
+	background-color: #769dcc; 
+}
+#home_main{
+    background:graytext;
+    min-height: 500px;
+}
+#home_side{
+    background:red;
+    min-height: 500px;
+}
+
+.navbar-wrapper{
+    padding:3em;
+}
+
+
+.footer{
+    padding:3em;
+    width:auto;
+	background-color: #f8f8f8;
+}
+.ads{
+    padding-top:2em;
+    width:auto;
+}
+.carousel-control
+{
+	/* min-height:500px; */
+	height:470px;
+	
+}
+
+.btn
+{
+	background: #769dcc;
+}
+
+#home_main.container
+{
+	background-color: transparent;
+}
+.container,marketing
+{
+	background-color: white;
+	padding: 0,0,0,10px;
+}
